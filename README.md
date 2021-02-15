@@ -10,7 +10,7 @@ Jupyter Notebook ```theSeattle.ipynb``` was created in GoogleColab and contains 
 To run the notebook on GoogleColab, the following two files must be present in the same directiory as the notebook:
 
 * Seattle 911 calls data that should be downloaded from [here](https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj)
-* Seattle weather data stored in file: "```Seattle Weatherdata 2002 to 2020.csv```"
+* Seattle weather data stored in file: "```Seattle_weather_data_2002_2020.csv```"
 
 This directory is usually ```/content``` in the GoogleColab session.
 
